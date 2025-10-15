@@ -25,3 +25,9 @@ A simple, all-in-one **Inventory Management System** built using **Java Swing** 
 
 ### Step 1: Save the file
 Download or copy this file into your project folder as:
+
+### step 2 : compile the java file
+javac InventoryManagementApp.java
+
+### step 3 : run the file
+java InventoryManagementApp
