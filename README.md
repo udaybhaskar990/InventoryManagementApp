@@ -48,6 +48,6 @@ java InventoryManagementApp
 ![Dashboard Screenshot](assets/entry.png)
 
 ### Add Product Page
-![Add Product Screenshot](assessts/exit.png)
+![Add Product Screenshot](assessts/inventory.png)
 
 
