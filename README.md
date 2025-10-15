@@ -4,6 +4,11 @@ A simple, all-in-one **Inventory Management System** built using **Java Swing** 
 
 ---
 
+## 🧾 About
+InventoryManagementApp is a simple Java-based GUI application built using Swing.  
+It allows users to efficiently manage inventory — add items, restock, record sales, and track product details.  
+This project demonstrates basic CRUD operations, GUI handling, and file-based data persistence.
+
 ## 🌟 Features
 - Add, delete, and restock items  
 - Real-time stock tracking  
@@ -11,6 +16,11 @@ A simple, all-in-one **Inventory Management System** built using **Java Swing** 
 - Low-stock highlighting  
 - Sales recording and reporting  
 - Export inventory data to CSV
+- Add, update, and remove inventory items
+- Real-time stock tracking
+- Simple and clean Swing-based interface
+- Automatic data saving and loading
+
 
 ---
 
@@ -31,3 +41,13 @@ javac InventoryManagementApp.java
 
 ### step 3 : run the file
 java InventoryManagementApp
+
+## 📸 Screenshots
+
+### Dashboard View
+![Dashboard Screenshot](assets/entry.png)
+
+### Add Product Page
+![Add Product Screenshot](assessts/exit.png)
+
+
